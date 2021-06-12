@@ -7,6 +7,6 @@ Foco:
     Rápido e Expansivel.
 
 Técnologias:
-    Reconhecimento de Voz: (Google, )
+    Reconhecimento de Voz: (Google para reconhecimento online, Vosk para reconhecimento offline)
     Sintese de voz.
     Agum tipo de IA.
